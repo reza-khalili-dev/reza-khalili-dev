@@ -7,7 +7,7 @@
 
 ## 🔧 Tech Stack
 - **Languages:** Python (OOP, scripting, automation), JavaScript (basic)  
-- **Frameworks & Tools:** Django, Django REST Framework, Flask, Bootstrap  
+- **Frameworks & Tools:** Django, Django REST Framework, Bootstrap  
 - **Databases:** PostgreSQL, MySQL, SQLite  
 - **Other Skills:** Git/GitHub, REST API design, JSON, HTML/CSS  
 - **Learning:** Advanced Django, deployment strategies, Docker, cloud platforms  
