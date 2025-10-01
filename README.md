@@ -15,6 +15,7 @@
 ---
 
 ## 📌 Highlighted Projects
+- 🚀 [**Learnevo**](https://github.com/reza-khalili-dev/Learnevo) - A Learning Management System (LMS) built with Django and Bootstrap UI. (Currently in active development)
 - 📝 [**Django To-Do App**](https://github.com/reza-khalili-dev/django-todo) – A full-featured task manager with authentication, CRUD, and Bootstrap UI.  
 - 📦 [**Inventory Management System**](https://github.com/reza-khalili-dev/inventory-management-system) – Python OOP-based system with JSON storage for managing inventory.  
 - 📰 [**Django Blog**](https://github.com/reza-khalili-dev/django-blog) – A clean blog platform built with Django and Bootstrap.  
