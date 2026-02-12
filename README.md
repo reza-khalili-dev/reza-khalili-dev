@@ -5,30 +5,41 @@
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** Python (OOP, scripting, automation), JavaScript (basic)  
-- **Frameworks & Tools:** Django, Django REST Framework, Bootstrap  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **Other Skills:** Git/GitHub, REST API design, JSON, HTML/CSS  
-- **Learning:** Advanced Django, deployment strategies, Docker, cloud platforms  
+## 📌 Highlighted Projects
+- 🚀 [**Learnevo**](https://github.com/reza-khalili-dev/Learnevo) - A Learning Management System (LMS) built with Django and Bootstrap UI. (Currently in active development)
+- 📝 [**Django To-Do App**](https://github.com/reza-khalili-dev/django-todo) – A full-featured task manager with authentication, CRUD, and Bootstrap UI.
+- 📦 [**Inventory Management System**](https://github.com/reza-khalili-dev/inventory-management-system) – Python OOP-based system with JSON storage for managing inventory.
+- 📰 [**Django Blog**](https://github.com/reza-khalili-dev/django-blog) – A clean blog platform built with Django and Bootstrap.
+- 🤝 [**Django Projects for Beginners**](https://github.com/reza-khalili-dev/Django-Projects-for-beginners) – Contributed to an open-source project for the global community as part of **Hacktoberfest**.
+- 📱 [**Digikala Scraper**](https://github.com/reza-khalili-dev/digikala-scraper) – A powerful Python app to scrape mobile product data from Digikala's official API, featuring a modern Persian RTL GUI and Excel export.
+- 🧩 [**Python Mini Projects Hub**](https://github.com/reza-khalili-dev/python-mini-projects) – A collection of small, practical Python projects (Movie Scraper, Translator, Wiki Search App, etc.) with consistent structure for easy running and contribution.
 
+---
+
+## 💼 What I Build
+✅ Professional Web Applications - Full-stack Django projects with authentication, CRUD, and responsive UIs
+✅ Desktop Applications - Custom Python GUI tools with modern interfaces and data export capabilities
+✅ Web Scrapers & Bots - High-performance scrapers using official APIs and browser automation
+✅ Automation Scripts - Custom Python solutions for data processing and workflow optimization
 ---
 
 ## 📌 Highlighted Projects
-- 🚀 [**Learnevo**](https://github.com/reza-khalili-dev/Learnevo) - A Learning Management System (LMS) built with Django and Bootstrap UI. (Currently in active development)
-- 📝 [**Django To-Do App**](https://github.com/reza-khalili-dev/django-todo) – A full-featured task manager with authentication, CRUD, and Bootstrap UI.  
-- 📦 [**Inventory Management System**](https://github.com/reza-khalili-dev/inventory-management-system) – Python OOP-based system with JSON storage for managing inventory.  
-- 📰 [**Django Blog**](https://github.com/reza-khalili-dev/django-blog) – A clean blog platform built with Django and Bootstrap.  
-- 🎯 [**Online Quiz System**](https://github.com/reza-khalili-dev/online-quiz-system) – CLI-based app for managing quizzes and courses in Python.  
-- 🤝 [**Django Projects for Beginners**](https://github.com/reza-khalili-dev/Django-Projects-for-beginners) – Contributed to an open-source project for the global community as part of **Hacktoberfest**.  
- 
+🚀 Learnevo - A Learning Management System (LMS) built with Django and Bootstrap UI. (Currently in active development)
+📝 Django To-Do App – A full-featured task manager with authentication, CRUD, and Bootstrap UI.
+📦 Inventory Management System – Python OOP-based system with JSON storage for managing inventory.
+📰 Django Blog – A clean blog platform built with Django and Bootstrap.
+🤝 Django Projects for Beginners – Contributed to an open-source project for the global community as part of Hacktoberfest.
+📱 Digikala Scraper – A powerful Python app to scrape mobile product data from Digikala's official API, featuring a modern Persian RTL GUI and Excel export.
+🧩 Python Mini Projects Hub – A collection of small, practical Python projects (Movie Scraper, Translator, Wiki Search App, etc.) with consistent structure for easy running and contribution.
 
+**Hacktoberfest**.  
+ 
 ---
 
 ## 🏆 Goals & Vision
-- Develop impactful applications that improve people's lives.  
-- Strengthen expertise in **Django & Backend Engineering**.  
-- Contribute to **open-source projects** and collaborate globally.  
+- Building production-ready Django applications with clean architecture
+- Developing Python desktop tools with professional GUI
+- Contributing to open-source and sharing knowledge with Persian dev communit
 
 
 ---
