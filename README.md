@@ -44,10 +44,15 @@
 
 ---
 
-## 📫 Let's Connect
+## 📞 Need a Custom Solution?
+
+I'm available for freelance projects. Contact me:
+
+- 🌐 Website: [reza-khalili.ir](https://reza-khalili.ir)
+- 📧 Email: reza@reza-khalili.ir
 - 💼 LinkedIn: [www.linkedin.com/in/reza-khalili-developer]  
 - 🐙 GitHub: [github.com/reza-khalili-dev](https://github.com/reza-khalili-dev)  
-- ✉️ Email: [arsalankhalili688@gmail.com]  
+
 
 ---
 ⭐️ *Always learning, always building – with the aim of leaving a positive mark through technology.*
