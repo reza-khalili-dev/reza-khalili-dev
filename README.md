@@ -1,58 +1,67 @@
-# 👋 Hi, I'm Reza Khalili  
+# Reza Khalili — Full-Stack Python & Django Developer 👨‍💻
 
-🚀 Passionate **Python & Django Developer** with a strong focus on building clean, scalable, and meaningful software solutions.  
-💡 I believe in creating projects that not only solve problems but also make a lasting positive impact.  
-
----
-
-## 🔧 Tech Stack & Expertise
-- Languages: Python (Advanced OOP, Scripting, Automation), JavaScript (ES6+)
-- Web Development: Django, Django REST Framework, Bootstrap
-- Desktop Development: Custom GUI applications with Python (Tkinter, ttkbootstrap)
-- Web Scraping & Automation: Selenium, BeautifulSoup4, Requests, API integration, Pandas
-- Databases: PostgreSQL, MySQL, SQLite
-- Version Control & Tools: Git/GitHub, REST API design & consumption, JSON/XML
+[![GitHub](https://img.shields.io/badge/GitHub-reza--khalili--dev-black?logo=github)](https://github.com/reza-khalili-dev)
+[![Website](https://img.shields.io/badge/Website-reza--khalili.ir-orange)](https://reza-khalili.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reza_Khalili-blue?logo=linkedin)](https://www.linkedin.com/in/reza-khalili-developer/)
 
 ---
 
-## 💼 What I Build
-- Professional Web Applications - Full-stack Django projects with authentication, CRUD, and responsive UIs
-- Desktop Applications - Custom Python GUI tools with modern interfaces and data export capabilities
-- Web Scrapers & Bots - High-performance scrapers using official APIs and browser automation
-- Automation Scripts - Custom Python solutions for data processing and workflow optimization
----
+## 🧠 About Me
 
-## 📌 Highlighted Projects
-- 🚀 [**Learnevo**](https://github.com/reza-khalili-dev/Learnevo) - A Learning Management System (LMS) built with Django and Bootstrap UI. (Currently in active development)
-- 📝 [**Django To-Do App**](https://github.com/reza-khalili-dev/django-todo) – A full-featured task manager with authentication, CRUD, and Bootstrap UI.
-- 📦 [**Inventory Management System**](https://github.com/reza-khalili-dev/inventory-management-system) – Python OOP-based system with JSON storage for managing inventory.
-- 📰 [**Django Blog**](https://github.com/reza-khalili-dev/django-blog) – A clean blog platform built with Django and Bootstrap.
-- 🤝 [**Django Projects for Beginners**](https://github.com/reza-khalili-dev/Django-Projects-for-beginners) – Contributed to an open-source project for the global community as part of **Hacktoberfest**.
-- 📱 [**Digikala Scraper**](https://github.com/reza-khalili-dev/digikala-scraper) – A powerful Python app to scrape mobile product data from Digikala's official API, featuring a modern Persian RTL GUI and Excel export.
-- 🧩 [**Python Mini Projects Hub**](https://github.com/reza-khalili-dev/python-mini-projects) – A collection of small, practical Python projects (Movie Scraper, Translator, Wiki Search App, etc.) with consistent structure for easy running and contribution.
+Full-Stack developer with **11+ years of freelance experience** and **120+ successful projects** for clients across Iran and abroad. I build high-performance web applications, e-commerce platforms, WordPress sites, automation bots, and web scrapers — with a deep focus on **Python, Django, WordPress, and PostgreSQL**.
 
+Currently available for freelance projects, consulting, and remote collaboration.
 
-**Hacktoberfest**.  
- 
----
-
-## 🏆 Goals & Vision
-- Building production-ready Django applications with clean architecture
-- Developing Python desktop tools with professional GUI
-- Contributing to open-source and sharing knowledge with Persian dev communit
-
+🌐 **Website:** [reza-khalili.ir](https://reza-khalili.ir)  
+💬 **Telegram:** [@Khalili_reza_dev](https://t.me/Khalili_reza_dev)
 
 ---
 
-## 📞 Need a Custom Solution?
+## 💼 Core Services
 
-I'm available for freelance projects. Contact me:
-
-- 🌐 Website: [reza-khalili.ir](https://reza-khalili.ir)
-- 📧 Email: reza@reza-khalili.ir
-- 💼 LinkedIn: [www.linkedin.com/in/reza-khalili-developer]  
-- 🐙 GitHub: [github.com/reza-khalili-dev](https://github.com/reza-khalili-dev)  
-
+- 🛒 **E-commerce Development** — custom online stores with Django, WooCommerce/WordPress
+- 🎨 **WordPress Development** — corporate, e-commerce & multilingual WordPress sites
+- 🤖 **Messenger Bots** — Telegram & Bale bots with admin panel, shopping cart & payment
+- 🕷️ **Web Scraping & Automation** — custom scrapers, crawlers, and data pipelines
+- ⚡ **Web Applications** — LMS, booking systems, dashboards & SaaS platforms
+- 🔍 **SEO & Performance** — technical SEO, speed optimization, Core Web Vitals
 
 ---
-⭐️ *Always learning, always building – with the aim of leaving a positive mark through technology.*
+
+## 🏗️ Tech Stack
+
+**Backend:** Python, Django, Django REST Framework, Celery, Redis  
+**CMS & E-commerce:** WordPress, WooCommerce, Elementor  
+**Frontend:** HTML5, CSS3, Bootstrap, JavaScript  
+**Database:** PostgreSQL, SQLite, MySQL  
+**DevOps & Tools:** Git, GitHub, Nginx, Gunicorn, Linux, VPS  
+**Payments:** Zarinpal, IDPay, Bale Wallet  
+**Scraping:** BeautifulSoup, Selenium, Scrapy, Requests
+
+---
+
+## 🔥 Highlighted Projects
+
+- 🛍️ **Clothing E-commerce with Django** — Full-featured online store with variable products (size/color), smart cart, Zarinpal gateway, auto PDF invoice, and modular architecture with 7 Django apps.
+- 🤖 **Bale Smart Shop Bot** — E-commerce bot with isolated shopping carts, inventory management, RBAC admin panel, and State Machine ordering flow.
+- 🎓 [**Learnevo LMS**](https://github.com/reza-khalili-dev/Learnevo) — Language school management system with student/teacher panels, online exams, course management, and progress tracking.
+- 🔌 [**Digikala Product Scraper**](https://github.com/reza-khalili-dev/digikala-scraper) — Automated scraper extracting product details & prices from Digikala with Excel export.
+- 🍽️ [**Balad Restaurant Scraper**](https://github.com/reza-khalili-dev/balad-restaurant-scraper) — Restaurant data extraction bot for Balad platform — menu, prices, and location data.
+- 🌍 [**Worldfood Moscow Scraper**](https://github.com/reza-khalili-dev/worldfood-moscow-scraper) — International trade fair scraper extracting exhibitor & product data from Worldfood Moscow.
+- 🌐 [**Gulfood Exhibitor Scraper**](https://github.com/reza-khalili-dev/gulfood-exhibitor-scraper) — Automated crawler for Gulfood exhibition — company profiles, contacts, and product catalogs.
+
+---
+
+## 📊 GitHub Stats
+
+![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-khalili-dev&show_icons=true&theme=dark)
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 **Website:** [reza-khalili.ir](https://reza-khalili.ir)
+- 💬 **Telegram:** [@Khalili_reza_dev](https://t.me/Khalili_reza_dev)
+- 💼 **LinkedIn:** [linkedin.com/in/reza-khalili-developer](https://www.linkedin.com/in/reza-khalili-developer/)
+- 📧 **Email:** reza@reza-khalili.ir
+- 📱 **Phone:** 09115930184
