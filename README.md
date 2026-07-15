@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-Full-Stack developer with **11+ years of freelance experience** and **120+ successful projects** for clients across Iran and abroad. I build high-performance web applications, e-commerce platforms, WordPress sites, automation bots, and web scrapers — with a deep focus on **Python, Django, WordPress, and PostgreSQL**.
+Full-Stack Python & Django Developer, I build high-performance web applications, e-commerce platforms, WordPress sites, automation bots, and web scrapers — with a deep focus on **Python, Django, WordPress, PostgreSQL and MySQL**.
 
 Currently available for freelance projects, consulting, and remote collaboration.
 
@@ -19,11 +19,11 @@ Currently available for freelance projects, consulting, and remote collaboration
 
 ## 💼 Core Services
 
-- 🛒 **E-commerce Development** — custom online stores with Django, WooCommerce/WordPress
+- ⚡ **Web Applications** — LMS, booking systems, dashboards & SaaS platforms
+- 🛒 **E-commerce Development** — custom online stores with Django or WooCommerce/WordPress
 - 🎨 **WordPress Development** — corporate, e-commerce & multilingual WordPress sites
 - 🤖 **Messenger Bots** — Telegram & Bale bots with admin panel, shopping cart & payment
 - 🕷️ **Web Scraping & Automation** — custom scrapers, crawlers, and data pipelines
-- ⚡ **Web Applications** — LMS, booking systems, dashboards & SaaS platforms
 - 🔍 **SEO & Performance** — technical SEO, speed optimization, Core Web Vitals
 
 ---
